@@ -19,5 +19,5 @@ Ensure you have Python installed on your system. This project requires Python 3.
 
 #### Clone the Repository
 ```bash
-git clone https://github.com/your-username/connect4-game.git
-cd connect4-game
+git clone https://github.com/TahirRajpoot/Connect4-Game-Python-Tkinter.git
+cd Connect4-Game-Python-Tkinter
