@@ -7,7 +7,6 @@ Welcome to the Connect 4 game, a classic two-player connection game where the ob
 - **Game Modes:** Play against another human or challenge the computer in single-player mode.
 - **Customizable Player Settings:** Choose your symbol (X/O) and customize your disc color.
 - **Dynamic GUI:** Intuitive and visually appealing game board interface.
-- **CLI Mode:** Enjoy the game in a command-line environment if preferred.
 - **Computer AI:** The computer player selects its moves randomly, providing a fun challenge.
 
 ## Getting Started
