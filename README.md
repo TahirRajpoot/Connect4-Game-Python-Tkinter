@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Connect 4 game, a classic two-player connection game where the objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game supports two-player mode (Human vs Human) and single-player mode (Human vs Computer).
 
-![Game UI](Images/Winner screen.png)
+<img src="Images/WinnerScreen.png" alt="Game UI" width="600"/>
 
 
 ## Features
