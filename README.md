@@ -22,10 +22,4 @@ Ensure you have Python installed on your system. This project requires Python 3.
 git clone https://github.com/TahirRajpoot/Connect4-Game-Python-Tkinter.git
 cd Connect4-Game-Python-Tkinter
 
-## Install Required Packages
-
-This game uses `tkinter` for the GUI, which comes pre-installed with most Python distributions. If you don't have it installed, you can install it using:
-
-```bash
-pip install tk
 
